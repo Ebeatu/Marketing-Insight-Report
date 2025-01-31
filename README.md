@@ -39,6 +39,6 @@ This initial analysis provides valuable insights into product performance, disco
 - Analyze customer behavior by region to optimize marketing strategies.  
 - Evaluate discount effectiveness for a better balance between sales growth and profit margins.
 
-### Next Steps:
+### Next Step:
 Develop a dashboard visualization to track these insights in real-time. 
 
