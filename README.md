@@ -40,5 +40,5 @@ This initial analysis provides valuable insights into product performance, disco
 - Evaluate discount effectiveness for a better balance between sales growth and profit margins.
 
 ### Next Steps:
-Develop a *dashboard visualization to track these insights in real-time. 
+Develop a dashboard visualization to track these insights in real-time. 
 
