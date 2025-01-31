@@ -42,3 +42,6 @@ This initial analysis provides valuable insights into product performance, disco
 ### Next Step:
 Develop a dashboard visualization to track these insights in real-time. 
 
+[https://hng.tech/hire/data-analysts](https://hng.tech/hire/data-analysts)
+
+
